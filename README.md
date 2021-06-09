@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkerhalil&label=Profile%20views&color=0e75b6&style=flat" alt="ilkerhalil" /> </p>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ilkerhalil&show_icons=true&theme=tokyonight" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkerhalil)](https://github.com/ilkerhalil)
+
 
