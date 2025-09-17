@@ -2,7 +2,7 @@
 
 **Senior Software Engineer @ Intertech | AI/ML Enthusiast | DevOps Practitioner**
 
-🇹🇷 Based in Turkey | 🔗 [Portfolio](https://ilkerhalil.github.io) | 💼 [LinkedIn](https://www.linkedin.com/in/ilker-halil-turer/)
+🇹🇷 Based in Türkiye | 🔗 [Portfolio](https://ilkerhalil.github.io) | 💼 [LinkedIn](https://www.linkedin.com/in/ilker-halil-turer/)
 
 ---
 
