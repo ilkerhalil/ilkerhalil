@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilker-halil-turer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ilkerhalil.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -61,46 +60,73 @@ Senior Software Architect at **Intertech** with **14+ years** of experience arch
 
 ## 🎯 Featured Projects
 
+> _All projects below are my original work — independently authored and maintained._
+
 ### 🤖 AI & Machine Learning
 
 <table>
 <tr>
 <td width="50%">
 
-**🚗 [Vehicle Detection System](https://github.com/ilkerhalil/Vehicle-Detection)**
+**🚙 [Vehicle Type Detection API](https://github.com/ilkerhalil/vehicle-type-detection-api)**
 
-Deep learning-based real-time vehicle detection and classification using YOLO algorithm. Achieved high accuracy in diverse traffic conditions.
+Production-ready REST API for real-time vehicle classification. Built on **FastAPI** with **Hexagonal Architecture**, supporting both **PyTorch (YOLOv8)** and **Intel OpenVINO** engines. Thread-safe model loading, dependency injection, Docker-ready with Swagger/ReDoc docs.
 
-*Tech: Python, YOLO, OpenCV, TensorFlow*
+*Tech: Python, FastAPI, YOLOv8, PyTorch, OpenVINO, Docker*
 
 </td>
 <td width="50%">
 
 **📚 [OCCT RAG System](https://github.com/ilkerhalil/occt-rag-system-project)**
 
-Retrieval-Augmented Generation system for technical documentation. Intelligent search and context-aware answers for complex technical queries.
+Local **Retrieval-Augmented Generation** system for Open CASCADE Technology (OCCT) documentation & code. ChromaDB vector search + Ollama local LLM inference for accurate, context-aware answers — fully private and offline.
 
-*Tech: Python, LangChain, Vector DB, LLMs*
+*Tech: Python, RAG, ChromaDB, Ollama, LangChain, LLMs*
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🎬 [SubtitleAI](https://github.com/ilkerhalil/SubtitleAI)**
+**⚽ [FIFA Match Predictor](https://github.com/ilkerhalil/fifa-predictior)**
 
-AI-powered tool for YouTube video analysis, summarization, and subtitle generation using advanced NLP techniques.
+Machine learning model predicting FIFA match outcomes from team statistics and historical data.
 
-*Tech: Python, NLP, Whisper, Transformers*
+*Tech: Python, scikit-learn, Data Science*
 
 </td>
 <td width="50%">
 
-**🚙 [Vehicle Type Detection API](https://github.com/ilkerhalil/vehicle-type-detection-api)**
+**📊 [RabbitMQ Distributed Logging](https://github.com/ilkerhalil/use-rabbitmq-log-python)**
 
-Production-ready REST API for real-time vehicle classification with high throughput and low latency.
+Scalable distributed logging solution for Python microservices, using RabbitMQ as the message broker for high-throughput environments.
 
-*Tech: Python, FastAPI, ML Models, Docker*
+*Tech: Python, RabbitMQ, Microservices*
+
+</td>
+</tr>
+</table>
+
+### 💾 .NET & Backend
+
+<table>
+<tr>
+<td width="50%">
+
+**🧩 [Extensions](https://github.com/ilkerhalil/Extensions)**
+
+Production-ready C# extension methods library — collections, strings, DateTime and more. Published on **NuGet** as `Another.Extension.Methods` with CI/CD and full test coverage.
+
+*Tech: C#, .NET, NuGet*
+
+</td>
+<td width="50%">
+
+**🗄️ [StandardRepository.PostgreSQL](https://github.com/ilkerhalil/StandardRepository.PostgreSQL)**
+
+Entity Framework alternative for **PostgreSQL** with record revisions, soft-delete and restore logic. Clean-architecture repository pattern for .NET, published on NuGet.
+
+*Tech: C#, .NET, PostgreSQL, Repository Pattern*
 
 </td>
 </tr>
@@ -108,53 +134,9 @@ Production-ready REST API for real-time vehicle classification with high through
 
 ### ☁️ DevOps & Infrastructure
 
-<table>
-<tr>
-<td width="50%">
-
-**🔴 [OpenShift AI Platform](https://github.com/ilkerhalil/openshift-ai)**
-
-Enterprise-grade AI/ML workflow orchestration on OpenShift, enabling scalable model training and deployment.
-
-*Tech: OpenShift, Kubernetes, Python, MLOps*
-
-</td>
-<td width="50%">
-
-**⚙️ [Ansible Redis Automation](https://github.com/ilkerhalil/ansible-redis)**
-
-Production-ready Redis deployment automation with high availability, monitoring, and backup configurations.
-
-*Tech: Ansible, Redis, Linux, Infrastructure as Code*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📊 [RabbitMQ Distributed Logging](https://github.com/ilkerhalil/use-rabbitmq-log-python)**
-
-Scalable distributed logging solution using RabbitMQ for high-throughput microservices environments.
-
-*Tech: Python, RabbitMQ, Logging, Microservices*
-
-</td>
-<td width="50%">
-
-**🔄 [Database Replication Suite](https://github.com/ilkerhalil/ReplicaDB)**
-
-High-performance bulk data transfer and synchronization tool supporting multiple database systems.
-
-*Tech: Java, JDBC, PostgreSQL, MySQL, Oracle*
-
-</td>
-</tr>
-</table>
-
-### 💾 Database & Backend
-
-- **[StandardRepository.PostgreSQL](https://github.com/ilkerhalil/StandardRepository.PostgreSQL)** - Clean architecture repository pattern implementation for PostgreSQL with .NET
-- **[Dotmim.Sync](https://github.com/ilkerhalil/Dotmim.Sync)** - Cross-platform database synchronization framework for distributed systems
+- **🐳 [JupyterHub + OpenLDAP](https://github.com/ilkerhalil/jupyterhub-openldap-docker-compose)** — One-command multi-user JupyterHub with OpenLDAP authentication via Docker Compose.
+- **🗺️ [DevOps Skill Roadmap](https://github.com/ilkerhalil/devops-skill-road-map)** — Curated roadmap covering cloud, CI/CD, Kubernetes, IaC and monitoring.
+- **🌐 [Portfolio Website](https://github.com/ilkerhalil/ilkerhalil.github.io)** — My personal portfolio at [ilkerhalil.github.io](https://ilkerhalil.github.io).
 
 ---
 
@@ -165,8 +147,6 @@ High-performance bulk data transfer and synchronization tool supporting multiple
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilkerhalil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkerhalil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilkerhalil&theme=tokyonight&hide_border=true)
 
 </div>
 
