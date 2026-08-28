@@ -68,6 +68,15 @@ Senior Software Architect at **Intertech** with **14+ years** of experience arch
 <tr>
 <td width="50%">
 
+**🏇 [Horse Racing Predictor](https://github.com/ilkerhalil/horse-racing-predictor)**
+
+Production-grade horse racing prediction system. **XGBoost + CatBoost ensemble** with RAG-augmented similarity search, Prefect orchestration, and a 5.5-year SQLite corpus. Full MLOps pipeline: feature engineering, walk-forward backtesting, model registry, and Docker-only deployment.
+
+*Tech: Python, XGBoost, CatBoost, RAG, Prefect, SQLite, MLOps*
+
+</td>
+<td width="50%">
+
 **🚙 [Vehicle Type Detection API](https://github.com/ilkerhalil/vehicle-type-detection-api)**
 
 Production-ready REST API for real-time vehicle classification. Built on **FastAPI** with **Hexagonal Architecture**, supporting both **PyTorch (YOLOv8)** and **Intel OpenVINO** engines. Thread-safe model loading, dependency injection, Docker-ready with Swagger/ReDoc docs.
@@ -75,6 +84,8 @@ Production-ready REST API for real-time vehicle classification. Built on **FastA
 *Tech: Python, FastAPI, YOLOv8, PyTorch, OpenVINO, Docker*
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **📚 [OCCT RAG System](https://github.com/ilkerhalil/occt-rag-system-project)**
@@ -84,8 +95,6 @@ Local **Retrieval-Augmented Generation** system for Open CASCADE Technology (OCC
 *Tech: Python, RAG, ChromaDB, Ollama, LangChain, LLMs*
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **⚽ [FIFA Match Predictor](https://github.com/ilkerhalil/fifa-predictior)**
@@ -93,15 +102,6 @@ Local **Retrieval-Augmented Generation** system for Open CASCADE Technology (OCC
 Machine learning model predicting FIFA match outcomes from team statistics and historical data.
 
 *Tech: Python, scikit-learn, Data Science*
-
-</td>
-<td width="50%">
-
-**📊 [RabbitMQ Distributed Logging](https://github.com/ilkerhalil/use-rabbitmq-log-python)**
-
-Scalable distributed logging solution for Python microservices, using RabbitMQ as the message broker for high-throughput environments.
-
-*Tech: Python, RabbitMQ, Microservices*
 
 </td>
 </tr>
