@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm İlker Halil Türer
 
-### Senior Software Architect | AI/ML Engineer | Cloud Solutions Expert
+### Senior Software Engineer | AI/ML Engineer | Cloud Solutions Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilker-halil-turer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ilkerhalil.github.io)
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Senior Software Architect at **Intertech** with **14+ years** of experience architecting and delivering enterprise-scale solutions. I specialize in building intelligent, scalable systems that leverage modern cloud technologies and AI/ML capabilities.
+Senior Software Architect at **Intertech** with **16+ years** of experience architecting and delivering enterprise-scale solutions. I specialize in building intelligent, scalable systems that leverage modern cloud technologies and AI/ML capabilities.
 
 - 🏢 **Current Role:** Senior Software Architect @ Intertech
 - 🌍 **Location:** Istanbul, Turkey (Remote Work)
