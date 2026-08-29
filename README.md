@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-Senior Software Architect at **Intertech** with **16+ years** of experience architecting and delivering enterprise-scale solutions. I specialize in building intelligent, scalable systems that leverage modern cloud technologies and AI/ML capabilities.
+Senior Software Engineer at **Intertech** with **16+ years** of experience architecting and delivering enterprise-scale solutions. I specialize in building intelligent, scalable systems that leverage modern cloud technologies and AI/ML capabilities.
 
-- 🏢 **Current Role:** Senior Software Architect @ Intertech
+- 🏢 **Current Role:** Senior Software Engineer @ Intertech
 - 🌍 **Location:** Istanbul, Turkey (Remote Work)
 - 🎯 **Focus:** Cloud-Native Architecture, AI/ML Integration, Enterprise Solutions
 - 🧠 **Expertise:** .NET Core, Python, AWS, Kubernetes, AI/ML, System Design
